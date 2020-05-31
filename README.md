@@ -1,6 +1,6 @@
 # Warsaw districts geojson files 🗺🌆
 
-<img src="https://imgur.com/a/ouIBmkw">
+<img src="https://i.imgur.com/cYzDS0E.png">
 
 
 In repo you can find files with [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) encoded data with polygons describing shapes of Warsaw districts (pl: dzielnice Warszawy).
