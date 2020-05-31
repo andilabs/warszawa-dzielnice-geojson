@@ -1,14 +1,13 @@
 # Warsaw districts geojson files 🗺🌆
 
-<img src="https://i.imgur.com/cYzDS0E.png" width="50%">
-
-
 In repo you can find files with [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) encoded data with polygons describing shapes of Warsaw districts (pl: dzielnice Warszawy).
 
 ### preview:
 
 
 Copy and paste the content into tools like this [http://geojson.io/](http://geojson.io/) to check if this is what you were looking for!
+
+<img src="https://i.imgur.com/cYzDS0E.png" width="50%">
 
 ## structure:
 
